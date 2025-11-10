@@ -1,5 +1,18 @@
 dependencies:
   idf: '>=5.5.0'
-  badgeteam/badge-bsp: ">=0.4.0"
+  badgeteam/badge-bsp: ">=0.4.1"
+  robotman2412/pax-gfx: ">=2.0.4"
+  badgeteam/appfs: ">=1.0.1"
+  badgeteam/custom-certificates: ">=1.1.0"
+  nicolaielectronics/wifi-manager: ">=0.2.0"
+  badgeteam/badge-elf:
+    version: ">=0.1.0"
+    rules:
+      - if: target == esp32p4
+  badgeteam/badge-elf-api:
+    version: ">=0.1.0"
+    rules:
+      - if: target == esp32p4
   nicolaielectronics/tanmatsu-wifi: ">=1.0.1"
-  robotman2412/pax-gfx: ">=2.0.3"
+  badgeteam/terminal-emulator: ">=0.0.4"
+ 
