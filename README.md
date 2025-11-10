@@ -26,4 +26,8 @@ Just to set expectations, this is a web browser which only displays text - all t
 
 There's a bit of work to do to add user settings and feedback, improve the visual presentation, make it more robust etc etc. This is very much a minimum viable (and sometimes not viable!) browser, so calibrate your expectations accordingly!
 
+## Acknowledgements
+
+This app borrows liberally from the Tanmatsu Launcher and the aforementioned WHY2025 mini browser, however any bugs and glitches you may encounter are entirely my own work.
+
 
