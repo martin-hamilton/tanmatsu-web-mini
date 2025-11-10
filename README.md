@@ -12,7 +12,7 @@ Just to set expectations, this is a web browser which only displays text - all t
 
 - You should find that you can page backwards and forwards using the arrow keys.
 
-- You should be able to use the TAB key to cycle through the URLs on the page, then press ENTER to pick one. Except right now there is no visual feedback to tell you which link you picked.
+- You should be able to use the TAB key to cycle through the URLs on the page, then press ENTER to pick one. Except right now there is no visual feedback to tell you which link you picked. Choose wisely!
 
 - The SSL implementation doesn't agree with some websites, so you might find that you follow a link which doesn't work. Check the ESP-IDF monitor (`make monitor`) for diagnostics.
 
